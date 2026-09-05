@@ -8,7 +8,7 @@ public class Test2 {
 		
 		if(hungry == "yes" || hungry == "Y" || hungry == "y") 
 		{
-			System.out.println("Eat Something");
+			System.out.println("Eat Something at home");
 		}
 		else{
 			System.out.println("Do Work......");

@@ -5,6 +5,7 @@ public class Test1 {
 	public static void main(String[] args) {
 		
 		String hungry="yes";
+		//String hungry2="no";
 		
 		if(hungry == "yes") 
 		{
