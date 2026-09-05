@@ -5,10 +5,13 @@ public class Test1 {
 	public static void main(String[] args) {
 		
 		String hungry="yes";
+		//String hungry2="no";
 		
 		if(hungry == "yes") 
 		{
 			System.out.println("Eat Something");
+			System.out.println("Don't eat junk food");
+
 		}
 		else{
 			System.out.println("Do Work....");
