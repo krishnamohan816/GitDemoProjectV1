@@ -10,6 +10,8 @@ public class Test1 {
 		if(hungry == "yes") 
 		{
 			System.out.println("Eat Something");
+			System.out.println("Don't eat junk food");
+
 		}
 		else{
 			System.out.println("Do Work....");

@@ -12,6 +12,7 @@ public class Test2 {
 		}
 		else{
 			System.out.println("Do Work......");
+			System.out.println("Do Workout");
 		}
 
 	}
